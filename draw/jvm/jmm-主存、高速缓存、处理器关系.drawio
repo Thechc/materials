@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T02:05:09.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="GVjSDg8N6sefKbSAyooO" type="github"><diagram id="ZBS_PbdN3izm1vH1BiUS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-24T04:40:45.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4YgA5xyBTM6ag21HGzGl" version="17.4.6" type="github">
+  <diagram id="ZBS_PbdN3izm1vH1BiUS" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-1" value="处理器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=3;fillColor=#d5e8d4;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#82b366;glass=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-2" value="高速缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=3;fillColor=#d5e8d4;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#82b366;glass=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#666666;fontStyle=3;glass=0;fillStyle=dashed;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="180" y="150" as="sourcePoint" />
+            <mxPoint x="260" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#666666;fontStyle=3;glass=0;fillStyle=dashed;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="420" y="149.5" as="sourcePoint" />
+            <mxPoint x="500" y="149.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-5" value="处理器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=3;fillColor=#d5e8d4;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#82b366;glass=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-6" value="高速缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=3;fillColor=#d5e8d4;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#82b366;glass=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#666666;fontStyle=3;glass=0;fillStyle=dashed;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="180" y="270" as="sourcePoint" />
+            <mxPoint x="260" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#666666;fontStyle=3;glass=0;fillStyle=dashed;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="420" y="269.5" as="sourcePoint" />
+            <mxPoint x="500" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-9" value="处理器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=3;fillColor=#d5e8d4;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#82b366;glass=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-10" value="高速缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=3;fillColor=#d5e8d4;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#82b366;glass=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#666666;fontStyle=3;glass=0;fillStyle=dashed;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="180" y="390" as="sourcePoint" />
+            <mxPoint x="260" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#666666;fontStyle=3;glass=0;fillStyle=dashed;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="420" y="389.5" as="sourcePoint" />
+            <mxPoint x="500" y="389.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-13" value="缓存一致性协议" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=3;fillColor=#d5e8d4;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#82b366;glass=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="80" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#666666;fontStyle=3;glass=0;fillStyle=dashed;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="620" y="269.5" as="sourcePoint" />
+            <mxPoint x="700" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMoKdtB4P0VWwceWC8bJ-15" value="主内存" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fontStyle=3;fillColor=#d5e8d4;gradientColor=none;gradientDirection=radial;shadow=1;sketch=1;strokeColor=#82b366;rounded=1;glass=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="170" width="120" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
